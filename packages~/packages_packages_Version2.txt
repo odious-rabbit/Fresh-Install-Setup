@@ -1,0 +1,6 @@
+# List your user-installed packages, one per line.
+# Example:
+# sweet-gtk-theme
+# candy-icons-git
+# plasma6-wallpapers-smart-video-wallpaper-reborn-git
+# plasma6-applets-panel-colorizer
