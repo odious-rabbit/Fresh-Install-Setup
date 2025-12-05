@@ -4,7 +4,8 @@
 
 # KDE Theme, System Fonts, Icons and Wallpapers
 
-<img width="1920" height="1080" alt="Desktop" src="https://github.com/user-attachments/assets/6d993daa-2a89-4d77-88da-329273df4962" />
+<img width="1920" height="1080" alt="Desktop + Launcher" src="https://github.com/user-attachments/assets/b06d249f-35b0-4803-9f89-ffafb48a987b" />
+
 
 
 Gtk Theme - Sweet - A dark and modern theme for KDE plasma - https://github.com/EliverLara/Sweet-kde.git
