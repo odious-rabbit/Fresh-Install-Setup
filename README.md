@@ -4,6 +4,9 @@
 
 # KDE Theme, System Fonts, Icons and Wallpapers
 
+<img width="1920" height="1080" alt="Desktop" src="https://github.com/user-attachments/assets/6d993daa-2a89-4d77-88da-329273df4962" />
+
+
 Gtk Theme - Sweet - A dark and modern theme for KDE plasma - https://github.com/EliverLara/Sweet-kde.git
 
 Fonts - a collection of Nerd Fonts including MartianMono Nerd Font, Gohu Nerd Font, Caskaydia Code Nerd Font, Symbols Nerd Font and more. - https://github.com/ryanoasis/nerd-fonts.git
@@ -33,18 +36,23 @@ Advanced Radio Player - Radio Player with editable list of stations - https://op
 
 # FireFox 
 
+<img width="1920" height="1080" alt="Firefox Bonjour Homepage" src="https://github.com/user-attachments/assets/ce7071a0-69ff-4283-9172-dc80da659a94" />
+
+BonJour Addon - Bonjourr is a home page for your Internet browser inspired by the looks of iOS. - https://github.com/victrme/Bonjourr.git
+
 Phoenix - Phoenix is a suite of configurations & advanced modifications for Mozilla Firefox, designed to put the user first - with a focus on privacy, security, freedom, functionality, & usability.
 https://github.com/celenityy/Phoenix
 
 DuckDuckGo - Search Engine  Config
 
-BonJour Addon - Bonjourr is a home page for your Internet browser inspired by the looks of iOS. - https://github.com/victrme/Bonjourr.git
-
 FF-Ultima - FF Ultima is a theme for everyone and anyone. Not only are all Operating Systems supported.. - https://github.com/soulhotel/FF-ULTIMA.git
 
 BetetrFox - Faster, more private and secure — without using third-party code. Betterfox is an opinionated preference list inspired by the law of diminishing returns and the minimum effective dose. - https://github.com/yokoffing/Betterfox.git
 
-# Package name - Description - Repository
+# Packages -  Name - Description - Repository
+
+<img width="1369" height="842" alt="Kitty" src="https://github.com/user-attachments/assets/c6a8b29d-09a9-4fac-aeab-4b6f025f02dd" />
+
 Kitty -  the fast, feature-rich, cross-platform, GPU based terminal. If you live in the terminal, kitty is made for you! - https://github.com/kovidgoyal/kitty.git
 
 Input-Leap - Input Leap is software that allows you to cotrol multiple computers with one keyboard and mouse -https://github.com/input-leap/input-leap.git
