@@ -3,6 +3,7 @@
   This is my reference guide to all of my must have programs, apps, themes, settings and configurations that I immediately setup when installing a new OS.. This one will be configured for CachyOS with KDE Plasma. So please adjust accordingly for your distribution.
 
 # KDE Theme, System Fonts, Icons and Wallpapers
+
 Gtk Theme - Sweet - A dark and modern theme for KDE plasma - https://github.com/EliverLara/Sweet-kde.git
 
 Fonts - a collection of Nerd Fonts including MartianMono Nerd Font, Gohu Nerd Font, Caskaydia Code Nerd Font, Symbols Nerd Font and more. - https://github.com/ryanoasis/nerd-fonts.git
@@ -31,6 +32,7 @@ OpenWeather, or the Norwegian Meteorological Institute. - https://github.com/tul
 Advanced Radio Player - Radio Player with editable list of stations - https://opencode.net/driglu4it
 
 # FireFox 
+
 Phoenix - Phoenix is a suite of configurations & advanced modifications for Mozilla Firefox, designed to put the user first - with a focus on privacy, security, freedom, functionality, & usability.
 https://github.com/celenityy/Phoenix
 
