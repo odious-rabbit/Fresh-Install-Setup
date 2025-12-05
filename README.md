@@ -50,7 +50,7 @@ FF-Ultima - FF Ultima is a theme for everyone and anyone. Not only are all Opera
 
 BetetrFox - Faster, more private and secure — without using third-party code. Betterfox is an opinionated preference list inspired by the law of diminishing returns and the minimum effective dose. - https://github.com/yokoffing/Betterfox.git
 
-# Packages -  Name - Description - Repository
+# Packages
 
 <img width="1369" height="842" alt="Kitty" src="https://github.com/user-attachments/assets/c6a8b29d-09a9-4fac-aeab-4b6f025f02dd" />
 
