@@ -1,5 +1,6 @@
 # Fresh-Install-Setup
-This is my reference guide to all of my must have programs, apps, themes, settings and configurations that I immediately setup when installing a new OS.. This one will be configured for CachyOS with KDE Plasma. So please adjust accordingly for your distribution.
+
+  This is my reference guide to all of my must have programs, apps, themes, settings and configurations that I immediately setup when installing a new OS.. This one will be configured for CachyOS with KDE Plasma. So please adjust accordingly for your distribution.
 
 # KDE Theme, System Fonts, Icons and Wallpapers
 Gtk Theme - Sweet - A dark and modern theme for KDE plasma - https://github.com/EliverLara/Sweet-kde.git
@@ -11,9 +12,9 @@ Icons - Candy Icons - https://github.com/EliverLara/candy-icons.git
 Jpeg Wallpaper Collection - Collection of wallpapers f- https://www.desktophut.com/ , https://wallpaperaccess.com/
 
 # Widgets
-Video-Wallpaper-Redone -Plasma 6 Wallpaper plugin to play videos on your Desktop/Lock Screen -  https://github.com/luisbocanegra/plasma-smart-video-wallpaper-reborn.git
 
 Catwalk -  	A simple plasmoid showing the total CPU usage. Visually made like RunCat. - https://aur.archlinux.org/plasma6-applets-catwalk.git
+
 Smart Video Wallpaper Reborn - Smart KDE Plasma 6 Wallpaper plugin to play videos on your Desktop/Lock Screen - https://aur.archlinux.org/plasma6-wallpapers-smart-video-wallpaper-reborn-git.git
 
 Panel Colorizer - Latte-Dock and WM status bar customization features for the KDE Plasma panels - https://aur.archlinux.org/plasma6-applets-panel-colorizer.git
