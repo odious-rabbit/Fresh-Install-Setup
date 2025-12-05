@@ -1,0 +1,19 @@
+Widget - Description - Link
+
+
+Catwalk -  	A simple plasmoid showing the total CPU usage. Visually made like RunCat. - https://aur.archlinux.org/plasma6-applets-catwalk.git
+
+Smart Video Wallpaper Reborn - Smart KDE Plasma 6 Wallpaper plugin to play videos on your Desktop/Lock Screen - https://aur.archlinux.org/plasma6-wallpapers-smart-video-wallpaper-reborn-git.git
+
+Panel Colorizer - Latte-Dock and WM status bar customization features for the KDE Plasma panels - https://aur.archlinux.org/plasma6-applets-panel-colorizer.git
+
+Andromeda Launcher - A simple Launcher for KDE Plasma based on the awesome MMcK Launcher created to fit the Andromeda theme for KDE - https://github.com/EliverLara/AndromedaLauncher
+
+
+Plasmusic Toolbar - KDE Plasma widget that shows currently playing song information and provide playback controls. - https://github.com/ccatterina/plasmusic-toolbar
+
+Application Title Bar - Widget with window title and control buttons. - https://github.com/antroids/application-title-bar
+
+Weather Widget Plus - Weather Widget Plus features a meteogram and extensive customization options. Data from Open-Meteo, OpenWeather, or the Norwegian Meteorological Institute. - https://github.com/tully-t/weather-widget-plus
+
+Advanced Radio Player - Radio Player with editable list of stations - https://opencode.net/driglu4it
