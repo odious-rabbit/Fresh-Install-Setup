@@ -47,7 +47,7 @@ BetetrFox - Faster, more private and secure — without using third-party code. 
 # Package name - Description - Repository
 Kitty -  the fast, feature-rich, cross-platform, GPU based terminal. If you live in the terminal, kitty is made for you! - https://github.com/kovidgoyal/kitty.git
 
-Input-Leap - Input Leap is software that mimics the functionality of a KVM switch, which historically would allow you to use a single keyboard and mouse to control multiple computers by physically turning a dial on the box to switch the machine you're controlling at any given moment. Input Leap does this in software, allowing you to tell it which machine to control by moving your mouse to the edge of the screen, or by using a keypress to switch focus to a different system. -https://github.com/input-leap/input-leap.git
+Input-Leap - Input Leap is software that allows you to cotrol multiple computers with one keyboard and mouse -https://github.com/input-leap/input-leap.git
 
 Vesktop - Vesktop is a custom Discord desktop app - https://github.com/Vencord/Vesktop.git
 
